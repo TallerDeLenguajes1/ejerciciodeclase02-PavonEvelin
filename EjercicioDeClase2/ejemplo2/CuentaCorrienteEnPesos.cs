@@ -8,10 +8,6 @@ namespace ejemplo2
 {
     class CuentaCorrienteEnPesos : Cuenta
     {
-        public override void insercion(int monto)
-        {
-
-        }
 
         public override void extraccion(int monto, tipoDeExtraccion tipo)
         {

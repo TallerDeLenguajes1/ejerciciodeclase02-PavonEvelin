@@ -24,7 +24,10 @@ namespace ejemplo2
 
         public virtual void extraccion(int monto, tipoDeExtraccion tipo)
         {
-
+            if(tipo == 1)
+            {
+                fondo -= monto;
+            }
         }
     }
 }

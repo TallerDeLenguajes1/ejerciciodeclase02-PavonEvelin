@@ -1,0 +1,5 @@
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.csproj.AssemblyReference.cache
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.AssemblyInfoInputs.cache
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.AssemblyInfo.cs
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.csproj.CoreCompileInputs.cache
