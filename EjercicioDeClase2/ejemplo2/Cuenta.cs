@@ -13,16 +13,16 @@ namespace ejemplo2
     }
     class Cuenta
     {
-        private float monto;
+        private float fondo;
 
-        public float Monto { get => monto; set => monto = value; }
+        public float Fondo { get => fondo; set => fondo = value; }
 
-        public void insercion(int monto)
+        public virtual void insercion(int monto)
         {
-
+            fondo += monto;
         }
 
-        public void extraccion(int monto, tipoDeExtraccion tipo)
+        public virtual void extraccion(int monto, tipoDeExtraccion tipo)
         {
 
         }
