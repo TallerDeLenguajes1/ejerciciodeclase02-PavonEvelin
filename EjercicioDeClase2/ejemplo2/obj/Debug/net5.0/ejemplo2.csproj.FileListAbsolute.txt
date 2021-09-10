@@ -3,3 +3,14 @@ C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj
 C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.AssemblyInfoInputs.cache
 C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.AssemblyInfo.cs
 C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.csproj.CoreCompileInputs.cache
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.exe
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.deps.json
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.runtimeconfig.json
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.runtimeconfig.dev.json
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.dll
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ref\ejemplo2.dll
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\bin\Debug\net5.0\ejemplo2.pdb
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.dll
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ref\ejemplo2.dll
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.pdb
+C:\RepoGit-Taller2\ejerciciodeclase02-PavonEvelin\EjercicioDeClase2\ejemplo2\obj\Debug\net5.0\ejemplo2.genruntimeconfig.cache

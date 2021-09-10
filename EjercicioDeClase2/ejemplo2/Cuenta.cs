@@ -6,25 +6,26 @@ using System.Threading.Tasks;
 
 namespace ejemplo2
 {
-    enum tipoDeExtraccion
+    public enum tipoDeExtraccion
     {
         cajeroHumano = 1,
         cajeroAutomatico = 2
     }
     class Cuenta
     {
-        private float fondo;
+        protected float fondo;
 
         public float Fondo { get => fondo; set => fondo = value; }
 
-        public virtual void insercion(int monto)
+        public void insercion(int monto)
         {
             fondo += monto;
         }
 
         public virtual void extraccion(int monto, tipoDeExtraccion tipo)
         {
-            if(tipo == 1)
+            //todas las cuentas comparten extraer todo el monto por cajero humano.
+            if(tipo == tipoDeExtraccion.cajeroHumano)
             {
                 fondo -= monto;
             }

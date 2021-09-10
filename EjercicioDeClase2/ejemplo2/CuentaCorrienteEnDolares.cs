@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace ejemplo2
 {
-    class CuentaCorrienteEnDolares
+    class CuentaCorrienteEnDolares : Cuenta
     {
         public override void extraccion(int monto, tipoDeExtraccion tipo)
         {
             if (monto > 200)
             {
-                Console.WriteLine("solo se puede extraer USD$200");
+                Console.WriteLine("Solo se puede extraer USD$200");
             }
 
-            Fondo -= monto;
+            fondo -= monto;
         }
     }
 }
